@@ -1,0 +1,46 @@
+Zbieranie Danych z Opaski Sportowej
+
+Kontekst Biznesowy Projektu IoT  
+
+Opis Projektu:
+
+Projekt polega na stworzeniu systemu, który umożliwi opasce sportowej zbieranie różnych parametrów zdrowotnych i wydolnościowych (takich jak tętno, liczba kroków, spalone kalorie itp.) i przesyłanie tych danych do chmury. W chmurze dane te będą przechowywane, analizowane i prezentowane użytkownikowi za pośrednictwem aplikacji mobilnej. System ma na celu dostarczenie użytkownikom wglądu w ich aktywność fizyczną i poziom kondycji, co pomoże im w podejmowaniu świadomych decyzji dotyczących treningu i zdrowia.
+
+Grupa Docelowa:
+
+Główną grupą docelową tego rozwiązania są osoby aktywne fizycznie, sportowcy oraz osoby dbające o zdrowie, które chcą śledzić swoje postępy w zakresie wydolności fizycznej. Drugorzędnymi odbiorcami mogą być trenerzy, drużyny sportowe oraz profesjonaliści z branży medycznej, którzy chcą monitorować parametry zdrowotne swoich podopiecznych.
+
+Główne Funkcje:
+
+	Opaska Sportowa:
+Urządzenie będzie zbierać dane o aktywności użytkownika (np. tętno, liczba kroków, poziom aktywności) w czasie rzeczywistym i przesyłać je do chmury za pomocą bezpiecznego połączenia IoT.
+	Przechowywanie Danych w Chmurze:
+Dane z opaski będą przesyłane do chmury(Azure), gdzie będą przechowywane i przetwarzane. 
+	Dostęp do Danych w Czasie Rzeczywistym:
+Użytkownicy będą mogli uzyskać dostęp do swoich danych za pośrednictwem aplikacji mobilnej, gdzie będą mogli zobaczyć szczegółowe raporty i wykresy dotyczące ich postępów, takie jak średnie tętno, liczba kroków dziennie czy spalone kalorie.
+	Bezpieczeństwo i Prywatność:
+Dane użytkowników będą przechowywane zgodnie z rygorystycznymi protokołami bezpieczeństwa. Wszystkie dane będą szyfrowane zarówno w trakcie transmisji, jak i w czasie przechowywania.
+
+Cele Biznesowe:
+
+	Monetyzacja przez Premium Funkcje:
+Proponowanie wersji podstawowej aplikacji z ograniczonymi funkcjami, takimi jak podstawowe śledzenie danych, a także dostęp do funkcji premium, takich jak zaawansowana analityka, spersonalizowane rekomendacje czy plany treningowe w modelu subskrypcyjnym.
+	Zwiększenie Zaangażowania Użytkowników:
+Poprzez dostarczanie użytkownikom bieżących wglądów w ich wyniki i rekomendacji na podstawie danych, system ma na celu zwiększenie zaangażowania w korzystanie z opaski i aplikacji, co pomoże w długoterminowym utrzymaniu klientów.
+
+Model Dochodowy:
+
+	•	Model Subskrypcyjny:
+Użytkownicy mogą płacić miesięczną lub roczną subskrypcję, aby uzyskać dostęp do funkcji premium, takich jak szczegółowa analityka wyników, spersonalizowane plany treningowe i zaawansowane śledzenie danych (np. zmienność tętna, jakość snu).
+	•	Sprzedaż Sprzętu:
+Dochody mogą również pochodzić ze sprzedaży samej opaski sportowej, bezpośrednio lub w ramach partnerstw z detalistami fitness.
+	•	Dane Anonimowe i Analityka dla Firm:
+Zgromadzone, zanonimizowane dane (po uzyskaniu zgody użytkowników) mogą być sprzedawane organizacjom badawczym, firmom fitness lub dostawcom usług zdrowotnych w celu pozyskania informacji o trendach zdrowotnych i aktywności fizycznej.
+
+Szansa Rynkowa:
+
+Globalny rynek urządzeń do noszenia, w tym trackerów fitness, rośnie w szybkim tempie, ponieważ coraz więcej konsumentów staje się bardziej świadomych swojego zdrowia i kondycji fizycznej. Wraz z rosnącą popularnością urządzeń IoT oraz rozwiązań opartych na chmurze, istnieje ogromna szansa na zdobycie rynku na potrzeby spersonalizowanego śledzenia zdrowia i aktywności. Dzięki połączeniu technologii noszonej i analityki danych w chmurze, ten projekt ma szansę stać się wartościowym rozwiązaniem na rynku zdrowia i fitnessu.
+
+User Stories:
+	Jako użytkownik, chcę śledzić moje tętno i liczbę kroków w różnych interwałach czasowych oraz różnych okresach.
+	Jako użytkownik można się zarejestrować
